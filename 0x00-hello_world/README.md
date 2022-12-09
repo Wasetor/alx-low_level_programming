@@ -1,0 +1,1 @@
+This file carries a detailed explantion of the task in first project on C programming that was assigned on the 8th of Dec, 2022... this project contains 7mandatory tasks and 2advanced tasks, making it a total of about 9tasks assigned
