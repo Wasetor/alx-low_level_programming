@@ -1,11 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
- * Main - assign a random number to the variable n
+ * main - assign a random number to the variable n
  *
- * Return: 0
-*/
+ * return: 0
+ */
 int main(void)
 {
 	int n;
