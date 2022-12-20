@@ -2,8 +2,9 @@ include "main.h"
 /**
  * _atio - converts a string to an integer
  * @s: string to be converted
- * return: the int converted from the s
+ * return: the int converted from the string
  */
+
 int _atoi(char *s)
 {
 	int i, d n, len, f, digit;
