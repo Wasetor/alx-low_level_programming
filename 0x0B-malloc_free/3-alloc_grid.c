@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <stdlib.h>
 #include "main.h"
 
@@ -10,7 +9,7 @@
  * Return: nothing
  */
 
-void free_grid(int **grid, int height)
+ivoid free_grid(int **grid, int height)
 {
 	int i;
 
